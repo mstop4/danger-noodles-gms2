@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "3b1a0969-433d-449f-9460-811274c94f50",
+            "Value": {
+                "id": "1531a96a-b8a1-42b9-ac89-902ab097111f",
+                "resourcePath": "scripts\\init_enums\\init_enums.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "49461191-37aa-40d4-a84e-f18c39be9edb",
             "Value": {
                 "id": "86dee96b-64da-43e0-b1e0-ba26c5127a9a",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "a6089d72-babc-4754-b8c0-f1c749b6ef05",
+            "Value": {
+                "id": "f096082b-23c4-46c3-90b6-9502bef520cb",
+                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "070d7389-72a7-442c-86a1-7c2c10dd680b",
@@ -156,6 +172,14 @@
                 "id": "dba53a60-65a8-4d6d-8ea2-9f9422c1332e",
                 "resourcePath": "views\\a9f5e78c-796b-4f1c-934a-6233f4307b56.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bd290a90-2c9c-4afa-9407-076e0cb645c9",
+            "Value": {
+                "id": "5a983163-79d5-4830-a20a-c1e45697562e",
+                "resourcePath": "objects\\obj_input\\obj_input.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -221,10 +245,18 @@
                 "resourcePath": "views\\f8b9b0e6-5270-43bf-afd4-f668cd17cbd9.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "fa84d140-0fb6-4df7-9fab-8489deb465cc",
+            "Value": {
+                "id": "db1c5060-8286-4284-8e34-0cabbcfb2f32",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
-        
+        "3b1a0969-433d-449f-9460-811274c94f50"
     ],
     "tutorial": ""
 }
